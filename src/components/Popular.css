@@ -1,0 +1,38 @@
+.popular-div {
+  position: absolute;
+  top: 860px;
+  height: 50px;
+  left: 100px;
+}
+
+.pop-movie-btn {
+  position: absolute;
+  bottom: 0px;
+  left: 140px;
+}
+
+.pop-movie-btn2 {
+  position: absolute;
+  bottom: 0px;
+  left: 140px;
+  background-color: white;
+  color: black;
+  border-style: solid;
+}
+
+.pop-tv-btn2 {
+  position: absolute;
+  bottom: 0px;
+  left: 240px;
+  background-color: white;
+  color: black;
+  border-style: solid;
+}
+
+.pop-tv-btn {
+  position: absolute;
+  bottom: 0px;
+  left: 240px;
+  background-color: rgb(244, 69, 69);
+  color: white;
+}

@@ -1,0 +1,63 @@
+.database {
+  position: absolute;
+  top: 70px;
+  color: white;
+  left: 600px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.header {
+  background-color: rgb(179, 49, 49);
+  height: 170px;
+  width: 110%;
+  position: relative;
+  bottom: 60px;
+  right: 10px;
+}
+
+img {
+  height: 300px;
+  width: 90%;
+  position: relative;
+  bottom: 20px;
+  -webkit-filter: blur(2px);
+  filter: blur(2px);
+  bottom: 60px;
+}
+
+.img {
+  text-align: center;
+}
+
+.text {
+  position: relative;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  bottom: 290px;
+}
+
+input {
+  position: relative;
+  bottom: 220px;
+  left: 440px;
+  width: 550px;
+  height: 40px;
+  border-radius: 25px;
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+button {
+  border-radius: 25px;
+  border: none;
+  height: 45px;
+  position: relative;
+  bottom: 220px;
+  left: 360px;
+  width: 90px;
+  background-color: rgb(244, 69, 69);
+  color: white;
+}
